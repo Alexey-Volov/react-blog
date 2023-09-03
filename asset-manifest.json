@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Alexey-Volov/react-blog/static/css/main.411d3d10.css",
-    "main.js": "/Alexey-Volov/react-blog/static/js/main.86b293a3.js",
-    "index.html": "/Alexey-Volov/react-blog/index.html",
-    "main.411d3d10.css.map": "/Alexey-Volov/react-blog/static/css/main.411d3d10.css.map",
-    "main.86b293a3.js.map": "/Alexey-Volov/react-blog/static/js/main.86b293a3.js.map"
+    "main.css": "/react-blog/static/css/main.411d3d10.css",
+    "main.js": "/react-blog/static/js/main.86b293a3.js",
+    "index.html": "/react-blog/index.html",
+    "main.411d3d10.css.map": "/react-blog/static/css/main.411d3d10.css.map",
+    "main.86b293a3.js.map": "/react-blog/static/js/main.86b293a3.js.map"
   },
   "entrypoints": [
     "static/css/main.411d3d10.css",
